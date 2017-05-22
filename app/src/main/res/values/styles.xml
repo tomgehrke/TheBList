@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="EmptyText">
+        <item name="android:padding">@dimen/EmptyTextPadding</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="ProgressBar">
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="SearchView">
+        <item name="android:padding">@dimen/SearchViewPadding</item>
+    </style>
+
+    <style name="BookCover">
+        <item name="android:layout_width">@dimen/BookCoverSize</item>
+        <item name="android:layout_height">@dimen/BookCoverSize</item>
+        <item name="android:padding">@dimen/BookCoverPadding</item>
+    </style>
+
+    <style name="BookInfo">
+        <item name="android:padding">@dimen/BookInfoPadding</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textSize">@dimen/TitleTextSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Author">
+        <item name="android:textSize">@dimen/AuthorTextSize</item>
+    </style>
+
+</resources>

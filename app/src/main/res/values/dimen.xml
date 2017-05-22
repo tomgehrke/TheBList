@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="SearchViewPadding">16dp</dimen>
+    <dimen name="BookCoverPadding">4dp</dimen>
+    <dimen name="BookCoverSize">80dp</dimen>
+    <dimen name="BookInfoPadding">8dp</dimen>
+    <dimen name="TitleTextSize">16sp</dimen>
+    <dimen name="AuthorTextSize">12sp</dimen>
+    <dimen name="EmptyTextPadding">64dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The B List</string>
+    <string name="search_button">Search</string>
+    <string name="no_network">No network connection!</string>
+    <string name="no_books">No books found!</string>
+    <string name="instructions">Enter a word or phrase and then tap the Search button.</string>
+    <string name="searching">Searching...</string>
+</resources>
